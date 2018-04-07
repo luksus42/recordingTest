@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=html5recTest
+Exec=webapp-container --app-id="recording.luksus" $@ www/index.html
+Icon=recording.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
